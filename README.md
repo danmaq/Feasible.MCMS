@@ -1,2 +1,3 @@
 # Feasible.MCMS
-Prototype for web of Feasible EA.
+
+[OBSOLETE] Prototype for web of Feasible EA.
