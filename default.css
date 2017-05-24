@@ -1,0 +1,53 @@
+@charset "UTF-8";
+body
+{
+	background-color: #4D4D4D;
+	color: #CCCCCC;
+}
+ul
+{
+	margin: 0em;
+	padding: 0em;
+}
+button { font-size: 150%; }
+ul li
+{
+	list-style: none;
+}
+input[type="number"]
+{
+	width: 6em;
+}
+ul#preference li
+{
+	margin: 0em;
+	padding: 0.2ex 0em;
+}
+ul#preference label
+{
+	margin-right: 1em;
+	width: 7em;
+	float: left;
+}
+h1
+{
+	font-size: 120%;
+}
+strong
+{
+	color: white;
+}
+ul#fluctuation li
+{
+	margin: 0em;
+	padding: 1ex 0em;
+}
+.Sell
+{
+	color: #CC9999;
+}
+.Buy
+{
+	color: #9999CC;
+}
+
